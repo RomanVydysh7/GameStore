@@ -144,8 +144,8 @@ const modalInfo = [
     catalog: "Покупцеві",
   },
 ];
+
 const App = () => {
-  console.log(useLocation());
   fetch("https://game-store-dev.onrender.com/api/api-categories")
     .then((response) => {
       return response.json();
