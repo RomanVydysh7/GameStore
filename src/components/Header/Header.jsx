@@ -110,9 +110,9 @@ const Header = ({ modalInfo }) => {
           <div className="shoppingCount">
             <NavLink
               className="shoppingCount"
-              to={window.innerWidth >= 768 ? "/cart" : ""}
+              to={window.innerWidth >= 876 ? "/cart" : ""}
               onClick={() => {
-                window.innerWidth >= 768
+                window.innerWidth >= 876
                   ? setIsOpenCart(false)
                   : setIsOpenCart(true);
               }}

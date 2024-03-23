@@ -33,3 +33,21 @@
     text-align: center;
   }
 }
+
+@media (max-width: 500px) {
+  .cart-total-price-mobile {
+    &__price {
+      & p {
+        margin: 0px;
+        font-size: 18px;
+        font-family: $mainFont400;
+        color: #c8cdd6;
+      }
+      & p:last-child {
+        font-size: 24px;
+        font-family: $mainFont500;
+        color: #835ae0;
+      }
+    }
+  }
+}
