@@ -2,114 +2,117 @@
     {
         "id":"01",
         "name":"ПК та комплектуючі",
-        "slug":"",
+        "slug":"components",
         "status": 1,
+        "image": "https://drive.google.com/file/d/1n5JWm1NI7xr85VCuuGHLa2QH6j3EnBdu/view?usp=drive_link",
         "subcategories":[
             {
                 "id": "01.1",
                 "name":"Готові рішення",
-                "slug":""
+                "slug":"ready-solutions"
             },
             {
                 "id": "01.2",
                 "name":"Процесори",
-                "slug":""
+                "slug":"processors"
             },
             {
                 "id": "01.3",
                 "name":"SSD накопичувачі",
-                "slug":""
+                "slug":"ssd-drives"
             },
             {
                 "id": "01.4",
                 "name":"Жорсткі диски",
-                "slug":""
+                "slug":"hard-drivers"
             },
             {
                 "id": "01.5",
                 "name":"Відеокарти",
-                "slug":""
+                "slug":"video-cards"
             }
         ]
     },
     {
         "id":"02",
         "name":"Ноутбуки",
-        "slug":"",
+        "slug":"netbooks",
         "status": 1,
+        "image": "https://drive.google.com/file/d/1TMdqn_zsWju-pvS6be7WUEBKp2VXvLHV/view?usp=drive_link",
         "subcategories":[
             {
                 "id": "02.1",
                 "name":"Ноутбуки ASUS",
-                "slug":""
+                "slug":"asus-netbooks"
             },
             {
                 "id": "02.2",
                 "name":"Ноутбуки Acer",
-                "slug":""
+                "slug":"acer-netbooks"
             },
             {
                 "id": "02.3",
                 "name":"Ноутбуки Razer",
-                "slug":""
+                "slug":"razer-netbooks"
             },
             {
                 "id": "02.4",
                 "name":"Ноутбуки Gigabyte",
-                "slug":""
+                "slug":"gigabyte-netbooks"
             },
             {
                 "id": "02.5",
                 "name":"Ноутбуки Dell",
-                "slug":""
+                "slug":"dell-netbooks"
             },
             {
                 "id": "02.5",
                 "name":"Ноутбуки MSI",
-                "slug":""
+                "slug":"msi-netbooks"
             }
         ]
     },
     {
         "id":"03",
         "name":"Консолі та ігри",
-        "slug":"",
+        "slug":"console-and-games",
         "status": 1,
+        "image": "https://drive.google.com/file/d/13uikKGDtroPIFqTD2ed-AY5gqDNyt-g_/view?usp=drive_link",
         "subcategories":[
             {
                 "id": "03.1",
                 "name":"Консолі PlayStation",
-                "slug":""
+                "slug":"playstation-consoles"
             },
             {
                 "id": "03.2",
                 "name":"Консолі XBOX",
-                "slug":""
+                "slug":"xbox-consoles"
             },
             {
                 "id": "03.3",
                 "name":"Консолі Nintendo",
-                "slug":""
+                "slug":"nintendo-consoles"
             },
             {
                 "id": "03.4",
                 "name":"Інші консолі",
-                "slug":""
-            },            
+                "slug":"another-consoles"
+            },
             {
                 "id": "03.5",
                 "name":"Ігри для PlayStation",
-                "slug":""
+                "slug":"playstation-games"
             },
             {
                 "id": "03.6",
                 "name":"Ігри для XBOX",
-                "slug":""
+                "slug":"xbox-games"
             },
             {
                 "id": "03.7",
                 "name":"Ігри для Nintendo",
-                "slug":""
+                "slug":"nintendo-games"
             }
         ]
     },
@@ -118,60 +121,68 @@
         "name":"Аксесуари",
         "slug":"",
         "status": 1,
+        "image": "https://drive.google.com/file/d/1AIRLY2KR59riAXL2xrbbUrDoxk9jpAVJ/view?usp=drive_link",
         "subcategories":[
             {
                 "id": "04.1",
                 "name":"Ігрові клавіатури",
-                "slug":""
+                "slug":"gaming-keyboards"
             },
             {
                 "id": "04.2",
                 "name":"Ігрові миші",
-                "slug":""
+                "slug":"gaming-mouses"
             },
             {
                 "id": "04.3",
                 "name":"Ігрові навушники",
-                "slug":""
+                "slug":"gaming-headphones"
             },
             {
                 "id": "04.4",
                 "name":"Окуляри віртуальної реальності",
-                "slug":""
-            },            
+                "slug":"virtual-reality-glasses"
+            },
             {
                 "id": "04.5",
                 "name":"Джойстики та геймпади",
-                "slug":""
+                "slug":"joysticks-gamepads"
             },
             {
                 "id": "04.6",
                 "name":"Рулі та штурвали",
-                "slug":""
+                "slug":"Rudder-steering-wheels"
             }
         ]
     },
     {
         "id":"05",
         "name":"Перефірія",
-        "slug":"",
+        "slug":"periphery",
         "status": 1,
+        "image": "https://drive.google.com/file/d/1r2kBjk4ilcE6pXC_k1zwDSIClsAn45u0/view?usp=drive_link",
         "subcategories":[
             {
                 "id": "05.1",
                 "name":"Ігрові столи",
-                "slug":""
+                "slug":"gaming-tables"
             },
             {
                 "id": "05.2",
                 "name":"Ігрові крісла",
-                "slug":""
+                "slug":"gaming-chairs"
             },
             {
                 "id": "05.3",
                 "name":"Ігрові поверхні",
-                "slug":""
+                "slug":"gaming-surfaces"
             }
         ]
-    }    
+    },
+    {
+        "id":"06",
+        "name":"Акції і пропозиції",
+        "slug":"#",
+        "status": 1
+    }
 ]}
